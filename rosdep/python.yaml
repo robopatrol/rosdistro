@@ -1,3 +1,11 @@
+apscheduler:
+  ubuntu:
+    pip:
+      packages: [apscheduler]
+jsonschema:
+  ubuntu:
+    pip:
+      packages: [jsonschema]
 gunicorn:
   fedora: [python-gunicorn]
   ubuntu: [gunicorn]
