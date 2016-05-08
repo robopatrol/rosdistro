@@ -1,7 +1,3 @@
-enum34:
-  ubuntu:
-    pip:
-      packages: [enum34]
 apscheduler:
   ubuntu:
     pip:
